@@ -1,1 +1,1 @@
-alert("This is an alert I created in index.js!");
+alert("摸鱼一时爽，一直摸鱼一直爽!");
